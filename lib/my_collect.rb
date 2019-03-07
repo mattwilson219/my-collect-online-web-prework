@@ -7,4 +7,5 @@ counter.push yield(array[i])
 i += 1 
  end
  counter
+ end
 end
